@@ -16,3 +16,4 @@ The main advantages of a water level indicator include water conservation, reduc
 Water level indicators are commonly used in overhead tanks, underground water storage systems, industrial process tanks, irrigation systems, and municipal water supply networks. Their simple design, low cost, and reliable operation make them an essential solution for effective water level monitoring and control.
 
 OUTPUT:
+<img width="603" height="374" alt="image" src="https://github.com/user-attachments/assets/67d6b373-009d-4862-acca-80e9c1cbb009" />
